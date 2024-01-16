@@ -1,4 +1,8 @@
-![logo](https://github.com/srijanguptaG/srijanguptaG/blob/main/WhatsApp%20Video%202024-01-16%20at%2009.00.37_cb16fa0d.mp4) 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://raw.githubusercontent.com/srijanguptaG/srijanguptaG/main/Web%20Developer.gif" alt=”my banner”>
+
+</p>
 <h1 align="center">Hi 👋, I'm Srijan Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
