@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHB43WB39ayemReCu9Thhe9TIeBT9wHKk0NadsAj9JA&s)
+[![MasterHead]((https://github.com/srijanguptaG/srijanguptaG/blob/main/Web%20Developer.png))
 <h1 align="center">Hi 👋, I'm Srijan Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
